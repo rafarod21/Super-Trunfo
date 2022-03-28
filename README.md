@@ -1,10 +1,6 @@
-# SUPER-TRUNFO
-  
 <p align="center">
   <br>
-  <!-- 
-  <Img src="https://github.com/rafarod21/DoWhile2021/blob/main/git-assets/logo.svg" width=700/>
--->
+  <Img src="https://github.com/rafarod21/Super-Trunfo/blob/main/git-assets/logo.svg" width=300/>
   
   <p align="center">
     <img src="https://img.shields.io/static/v1?label=Status&message=Em%20desenvolvimento&color=yellow&style=flat&labelColor=3E3E3E">
